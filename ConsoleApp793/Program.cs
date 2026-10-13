@@ -10,6 +10,7 @@ namespace ConsoleApp793
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("1");
         }
     }
 }
